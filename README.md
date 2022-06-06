@@ -6,7 +6,7 @@ Machining Procurement transitioning into a Data Scientist or Data Analyst. Have 
 
 Currently focusing enhance my data science skill through boot camp training.
 
-For further information you can check [my linkedin profile](https://www.linkedin.com/in/aldimeolaalfarisy/)
+For further information you can check my [LinkedIn](https://www.linkedin.com/in/aldimeolaalfarisy/) profile.
 
 <!---
 aldimeolaalfarisy/aldimeolaalfarisy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
