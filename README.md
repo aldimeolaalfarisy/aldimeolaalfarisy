@@ -1,6 +1,6 @@
 # Hi, my name is Aldimeola Alfarisy :wave:
 
-Machining Procurement transitioning into a Data Scientist or Data Analyst. Have a big passion with data. Because there is no valid argument without data :chart_with_upwards_trend: :bar_chart:. Always trying to improve myself. :muscle:
+Machining Procurement transitioning into a Data Roles. Have a big passion with data. Because there is no valid argument without data :chart_with_upwards_trend: :bar_chart:. Always trying to improve myself. :muscle:
 
 # What I'm focusing on
 
