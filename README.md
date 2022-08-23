@@ -6,7 +6,7 @@ I'm an aspiring data enthusiast who wishes to solve problems in the world by mea
 
 ## What I'm focusing on:
 
-Currently focusing enhance my data science skill through do some personal projects.
+Currently focusing enhance my data science skills through do some personal projects. Here's my projects [portfolio](https://drive.google.com/file/d/1W-jh2DZQgCHkTPUmfNp1jPvh_q6zWcXS/view?usp=sharing).
 
 
 
