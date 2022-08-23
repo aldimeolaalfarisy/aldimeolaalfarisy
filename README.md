@@ -1,12 +1,16 @@
-# Hi, my name is Aldimeola Alfarisy :wave:
+# Hi :wave:, my name is Aldi
 
-Machining Procurement transitioning into a Data Roles. Have a big passion with data. Because there is no valid argument without data :chart_with_upwards_trend: :bar_chart:. Always trying to improve myself. :muscle:
+I'm an aspiring data enthusiast who wishes to solve problems in the world by means of data.
 
-# What I'm focusing on
+:mailbox_with_mail: Reach me at: aldimeolaalfarisy@yahoo.com or send a message on [LinkedIn](https://www.linkedin.com/in/aldimeolaalfarisy/) 
 
-Currently focusing enhance my data science skill through boot camp training.
+## What I'm focusing on:
 
-For further information you can check my [LinkedIn](https://www.linkedin.com/in/aldimeolaalfarisy/) profile.
+Currently focusing enhance my data science skill through do some personal projects.
+
+
+
+
 
 <!---
 aldimeolaalfarisy/aldimeolaalfarisy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
