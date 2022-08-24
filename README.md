@@ -2,7 +2,7 @@
 
 I'm an aspiring data enthusiast who wishes to solve problems in the world by means of data.
 
-:mailbox_with_mail: Reach me at: aldimeolaalfarisy@yahoo.com or send a message on [LinkedIn](https://www.linkedin.com/in/aldimeolaalfarisy/) 
+:mailbox_with_mail: Reach me at: aldimeolaalfarisy@yahoo.com or send a message on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aldimeolaalfarisy/) 
 
 ## What I'm focusing on:
 
