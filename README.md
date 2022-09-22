@@ -6,7 +6,7 @@ I'm an aspiring data enthusiast who wishes to solve problems in the world by mea
 
 ### What I'm focusing on:
 
-Currently focusing enhance my data science skills through do some personal projects. Here's my projects [portfolio](https://drive.google.com/file/d/1Mg3PBjnDcTjF3AYQsuCjdVcNfig_GNE4/view?usp=sharing).
+Currently focusing enhance my data science skills through do some personal projects. Here's my projects [portfolio](https://drive.google.com/file/d/1yNzBPZ9AOE0S_MTK9kCdtbPFzfXATxvo/view?usp=sharing).
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -15,7 +15,6 @@ Currently focusing enhance my data science skills through do some personal proje
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" **alt="SQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
-  
 
 <!---
 aldimeolaalfarisy/aldimeolaalfarisy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
