@@ -1,6 +1,6 @@
 # Hi :wave:, my name is Aldi
 
-Ex-Manufacture Engineer transitioning into Data roles. 5 years of experience working with data and providing interactive visualization dashboard. Proficient in processing and extrapolating data to provide actionable insights aligned with statistics and modeling, as well as Python Programming Language and SQL. Highly determined to improve technical skills and apply them to real-world experiences and make an impact.
+Ex-Manufacturing Engineering transitioning into Data roles. Over 5 years of experience working with data and designed visualization dashboards. Proficient in processing and extrapolating data to provide actionable insights aligned with statistics and modeling, as well as Python Programming Language and SQL. Highly determined to improve technical skills and apply them to real-world experiences and make an impact.
 
 :mailbox_with_mail: Reach me at: aldimeolaalfarisy@yahoo.com or send a message on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aldimeolaa) 
 
