@@ -1,6 +1,6 @@
 # Hi :wave:, my name is Aldi
 
-An experienced manufacturing engineer in optimizing machining processes to improve production efficiency and quality. Skilled in using data analysis tools such as Excel and Python to analyze and interpret manufacturing data, identify improvement opportunities, and perform statistical analysis. Strong project management skills and ability to present complex data in an easily understandable format. Highly determined to leverage his manufacturing processes experience and data analysis skills to drive continuous improvement in a dynamic manufacturing environment.
+Results-driven manufacturing engineer with a passion for data analysis and problem-solving. Skilled in statistical analysis, data visualization, and machine learning techniques. Experience in process improvement and optimization, as well as project management. Proficient in Python, SQL, and Excel. Highly determined to leverage his manufacturing background and analytical skills to drive business insights and value.
 
 :mailbox_with_mail: Reach me at: aldimeolaalfarisy@yahoo.com or send a message on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aldimeolaa) 
 
